@@ -19,7 +19,7 @@ token = os.environ.get('betBOT')
 _ = gettext
 
 if not token:
-    sys.exit(_('Add an enviroment variable $betBOT with your token.'))
+    sys.exit(_('6790883859:AAG4G8emj8hmFTpZDABlO-jg_4n1Pk0N1PE'))
 
 if sys.argv[1] and 'lang=' in sys.argv[1]:
     lang = sys.argv[1].split('=')[1]
